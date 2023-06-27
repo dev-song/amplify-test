@@ -10,6 +10,14 @@
       "StackName": "amplify-lambdatest-dev-134454",
       "StackId": "arn:aws:cloudformation:ap-northeast-2:445772965351:stack/amplify-lambdatest-dev-134454/5cd36020-14a5-11ee-9776-0a66bb38456a",
       "AmplifyAppId": "d1ffvltdz940d"
+    },
+    "categories": {
+      "auth": {
+        "lambdatestd0874478": {}
+      },
+      "api": {
+        "lambdatest": {}
+      }
     }
   }
 }
